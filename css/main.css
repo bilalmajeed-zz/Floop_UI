@@ -1,7 +1,41 @@
+html { 
+	overflow: hidden;
+}
+
+body {
+	font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 .nav-seperator {
 	padding-top: 20px;
 }
 
 .sidebar {
-	border: 1px solid #000
+	padding-top: 25px;
+	padding-bottom: 25px;
+	height: 100vh;
+
+}
+
+.profile-pic-wrapper{
+	padding-left: 10px;
+}
+
+
+.profile-pic {
+	width: 200px;
+	height: 200px;
+}
+
+.sidebar-links{
+	margin-top: 30px;
+}
+
+.sidebar-links a {
+	text-decoration: none;
+	color: #9e9e9e;
+}
+
+.sidebar-links a:hover {
+	color: #757575;
 }
