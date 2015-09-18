@@ -4,7 +4,7 @@ $(document).ready(function(){
 
     $('.save_goal').click(function(){
 		var input = document.getElementById("goal_input").value;
-		var date = document.getElementById("date").value;
+	var date = document.getElementById("date").value;
 		var table = document.getElementById("goal-table");
 		var row = table.insertRow(table.rows.length);
 		var goal_id = "goal"+table.rows.length
@@ -19,11 +19,10 @@ $(document).ready(function(){
 
 	});
 
-  });
+	
+});
 
 $('.datepicker').pickadate({
 	selectMonths: true, // Creates a dropdown to control month
 	selectYears: 15 // Creates a dropdown of 15 years to control year
 });
-
-
