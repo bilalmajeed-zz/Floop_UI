@@ -10,7 +10,7 @@
   <body>
     
   	
-  	<nav class="cyan lighten-1 z-depth-1">
+  	<nav class="cyan lighten-1 z-depth-1 header">
       <div class="nav-wrapper container">
         <a href="#" class="brand-logo center">Floop</a>
       </div>
@@ -18,7 +18,7 @@
 
     <div class="row">
 
-      <div class="col s3 grey lighten-5 z-depth-1">
+      <div class="col s3 grey lighten-5 z-depth-1 sidenav">
       	<div class="container fullscreen sidebar">
       		<div class="row profile-pic-wrapper"><img src="res/profile.png" alt="Picture of Me!" class="profile-pic circle responsive-img"></div>
       		<div class="row"><h5 class="center-align grey-text text-darken-1">Ash Ketchum</h5></div>
@@ -36,39 +36,105 @@
 
       <div class="col s9 content">
       	<div class="row nav-seperator"></div>
-      	<div class="container">
+      	<div class="feedback-padding">
   				<div class="row"><h2 class="center-align grey-text text-darken-1">Feedback</h2></div>
   				<div class="divider"></div>
   			
 					<table>
 		        <tbody>
 		          <tr>
+                <td>
+                  <div class="row profile-pic-wrapper"><img src="res/profile.png" alt="Picture of Me!" class="feedback-profile-pic circle responsive-img"></div>
+                  <div class="row"><h6 class="center-align grey-text text-darken-1">Ash Ketchum</h6></div> 
+                </td>
+
 		            <td>
-		            	<p>
-      							<input type="checkbox" id="goal1" />
-      							<label for="goal1">Catch them all</label>
-    							</p>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Strengths</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
     						</td>
-    						<td><p><label class="red-text text-darken-1">Complete by: March 20, 2016</label></p></td>
+                <td>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Areas of Improvement</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
+                </td>
 		          </tr>
 
-		          <tr>
-		            <td>
-		            	<p>
-      							<input type="checkbox" id="goal2" />
-      							<label for="goal2">Be the very best, that no one ever was</label>
-    							</p>
-    						</td>
-    						<td><p><label class="red-text text-darken-1"></label></p></td>
-		          </tr>
+              <tr>
+                <td>
+                  <div class="row profile-pic-wrapper"><img src="res/profile.png" alt="Picture of Me!" class="feedback-profile-pic circle responsive-img"></div>
+                  <div class="row"><h6 class="center-align grey-text text-darken-1">Ash Ketchum</h6></div> 
+                </td>
+
+                <td>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Strengths</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Areas of Improvement</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+              <tr>
+                <td>
+                  <div class="row profile-pic-wrapper"><img src="res/profile.png" alt="Picture of Me!" class="feedback-profile-pic circle responsive-img"></div>
+                  <div class="row"><h6 class="center-align grey-text text-darken-1">Ash Ketchum</h6></div> 
+                </td>
+
+                <td>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Strengths</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div class="card grey lighten-5">
+                    <div class="card-content">
+                      <span class="card-title"><div class="feedback-card-title">Areas of Improvement</div></span>
+                      <div class="input-field feedback-input-textarea"><textarea id="strengths"></textarea></div>
+                    </div>
+                    <div class="card-action">
+                      <a href="#">Save</a>
+                    </div>
+                  </div>
+                </td>
+              </tr>
+
+
 		        </tbody>
       		</table>
-
-      		<div class="row">
-			      <div class="col s12 m6 l4 right">
-			        <a class="waves-effect waves-light btn modal-trigger cyan lighten-1" href="#modal1">Add New Goal</a>
-			    	</div>
-			    </div>
 
 			    <div id="modal1" class="modal">
 			      <div class="modal-content">

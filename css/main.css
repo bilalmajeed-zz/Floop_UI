@@ -1,5 +1,5 @@
 html { 
-	overflow: hidden;
+
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 }
 
 .profile-pic-wrapper{
-	padding-left: 10px;
+	text-align: center;
 }
 
 
@@ -38,4 +38,29 @@ body {
 
 .sidebar-links a:hover {
 	color: #757575;
+}
+
+.feedback-card-title{
+	font-size: 18px;
+	color: #757575;
+}
+
+.feedback-input-textarea textarea {
+	resize: vertical;
+	height: 200px;
+	border: 1px solid #e0e0e0;
+}
+
+.feedback-padding {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.feedback-profile-pick {
+	width: 100px;
+	height: 100px;
+}
+
+table tbody tr td h6 {
+	font-size: 18px;
 }

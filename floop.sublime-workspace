@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "feedback.html",
+			"settings":
+			{
+				"buffer_size": 3984,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "team.html",
+			"settings":
+			{
+				"buffer_size": 3984,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 463,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 111.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"plg",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/loaner/Desktop/Floop",
+		"/Users/loaner/Desktop/Floop/css",
+		"/Users/loaner/Desktop/Floop/js",
+		"/Users/loaner/Desktop/Floop/res"
+	],
+	"file_history":
+	[
+		"/Users/loaner/Desktop/Floop/goals.html",
+		"/Users/loaner/Desktop/Floop/index.html",
+		"/Users/loaner/Desktop/Floop/js/app.js",
+		"/Users/loaner/Desktop/Floop/css/materialize.css",
+		"/Users/loaner/Desktop/Floop/res/profile.png",
+		"/Users/loaner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/loaner/Desktop/Floop/materialize/index.html",
+		"/Users/loaner/Google Drive/Menards/PS-2746_Menards_Summit-W39/MenardsVendorAppTwoFive_Summit.csv",
+		"/Users/loaner/Google Drive/Menards/PS-2746_Menards_Summit-W39/Summit-Feed.xls",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/_generalstyles.html.erb",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/mobile.html.erb",
+		"/Users/loaner/dynamic-content/creative/merchants/walmart/PS-2751-PioneerWomanMeals_Recipe/desktop.html",
+		"/Users/loaner/Desktop/test.html",
+		"/Users/loaner/dynamic-content/creative/merchants/walmart/PS-2751-PioneerWomanMeals_Recipe/mobile.html",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/desktop.html.erb",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Summit/mobile.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Summit/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Greatestappever/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Greatestappever/mobile.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Sopus/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp_Sopus/mobile.html",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/_app.html.erb",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp1/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2758-TestApp1/mobile.html",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/_shared.html.erb",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/_stubb.html.erb",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/_templates.html.erb",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2759-Sopus/tab.html",
+		"/Users/loaner/dynamic-content/app/views/templates/vendor_specific_phase_2-5/tab.html.erb",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2759-Sopus/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2746-Summit/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/walmart/PS-2710-multichannel2/assets/blox_2/bg.png",
+		"/Users/loaner/dynamic-content/creative/merchants/walmart/PS-2710-multichannel2/assets/blox_0/bg.png",
+		"/Users/loaner/dynamic-content/creative/merchants/walmart/PS-2710-multichannel2/assets/blox_1/bg.png",
+		"/Users/loaner/dynamic-content/creative/merchants/jcpenney/PS-2700_33B/desktop.html",
+		"/Users/loaner/dynamic-content/creative/merchants/jcpenney/PS-2700_33B/mobile.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2759-Sopus/mobile.html",
+		"/Users/loaner/Google Drive/PS-2759_Menards_Sopus-W40/MenardsVendorAppTwoFive_Sopus.csv",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2746-Summit/mobile.html",
+		"/Users/loaner/dynamic-content/creative/merchants/menards/PS-2746-Summit/tab.html",
+		"/Users/loaner/.ssh/config",
+		"/Users/loaner/.ssh/id_rsa.pub",
+		"/Users/loaner/Downloads/MenardsVendorAppTwoFive_EasyHeat.csv",
+		"/Users/loaner/Downloads/Summit-Feed.csv",
+		"/Users/loaner/Downloads/Summit-Feed copy.csv",
+		"/Users/loaner/Downloads/Summit-Feed.xls",
+		"/Users/loaner/flyers/config/environments/development.rb",
+		"/Users/loaner/flyers/config.ru"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ee6e73",
+			"nav-wrapper",
+			"sub-project",
+			"only-vide",
+			".inner-box .desc",
+			"proj-video",
+			"padding-12px",
+			"length",
+			"misc",
+			"class=\"heading",
+			"heading",
+			"document",
+			"top-heading",
+			"desc}}",
+			"desc",
+			"top-heading",
+			"padding",
+			"padding-btm",
+			"proj-video",
+			"desc",
+			"pro-box",
+			"inner-box",
+			"template",
+			"sub-project",
+			"recipe-app",
+			" <a class=\"hero-cta caja-clickable caja-hoverable\" href=\"www.walmart.com\"",
+			" <a class=\"hero-cta caja-clickable caja-hoverable\" href=\"www.walmart.com\"\n>               data-type=\"ttm\" data-title=\"Hero CTA Link\" target=\"_blank\">",
+			"recipe-slide-container",
+			"view-recipe-button",
+			"sub-proj-img-container",
+			"sp-content-container",
+			"sub-proj-img-container",
+			"susub-proj-img-container",
+			"sub-proj-img-container",
+			"div id=\"sub-proj-img-container\"",
+			"width: 100%",
+			"padding: 0 0",
+			"main-container-box",
+			"{{main-desc}}",
+			"sub",
+			"sub-project",
+			"class=\"sub-project",
+			"\"sub-project\"",
+			"sub-project",
+			"22px",
+			"22px;",
+			";\n",
+			"margin-bottom: 22px;",
+			"main",
+			".main",
+			"main",
+			"top-heading",
+			"inner-box",
+			" .inner-box {",
+			"inner-box",
+			"desc",
+			"sub-project-container",
+			"desc",
+			"main",
+			"heading one-line",
+			"heading-text",
+			"proj-contents",
+			"heading-text",
+			"sp-content",
+			"display: none",
+			"display",
+			"inner-box",
+			" .proj-video .wishabi-video",
+			"max-width:",
+			".proj-video",
+			" .proj-video .wishabi-video",
+			"<<<<<<< HEAD",
+			"head",
+			"font",
+			"sub-project-container",
+			"419px",
+			"project-selector-handle",
+			"sub-project-container",
+			"sub-project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "feedback.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1755,
+								1755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 220.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "team.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1755,
+								1755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 304.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1586,
+								1586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 287.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "floop.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_desktop.erb",
+				"dynamic-content/app/views/templates/vendor_specific_phase_2-5/desktop.html.erb"
+			],
+			[
+				"_app",
+				"dynamic-content/app/views/templates/vendor_specific_phase_2-5/_app.html.erb"
+			],
+			[
+				".ssh/",
+				".ssh/id_rsa.pub"
+			],
+			[
+				"app/views/shared_partials/_caj",
+				"flyers/app/views/shared_partials/dc_previews/_cajatest.html.erb"
+			],
+			[
+				"flyers/config/en",
+				"flyers/config/environments/development.rb"
+			],
+			[
+				"config/evironments/",
+				"config/environments/development.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/flipp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 768.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
